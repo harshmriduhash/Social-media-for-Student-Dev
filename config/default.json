@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://bilalahm3d:ahm3dbilal@devconnector.cej1m.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtToken": "mysecrettoken",
+    "githubClientId": "dca6bf2e005a2da1e813",
+    "githubSecret": "3d0f3224b59de2c701741771ad76b60ffaf4c51d"
+}
